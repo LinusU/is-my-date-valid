@@ -1,0 +1,17 @@
+{
+  "name": "is-my-date-valid",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": "Linus Unnebäck <linus@folkdatorn.se>",
+  "repository": "LinusU/is-my-date-valid",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "dependencies": {
+    "moment": "^2.12.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "standard": "^6.0.8"
+  }
+}
